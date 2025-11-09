@@ -21,9 +21,13 @@ Here are some ideas to get you started:
 
 ###
 
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/anna-spano7" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="linkedin logo"  />
+  <a href="https://www.kaggle.com/ottyanna" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)" height="25" alt="kaggle logo"  />
 </div>
 
 <!--tryhackme?-->
