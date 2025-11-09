@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Anna, a physicist and a passionate wannabe developer from Italy <br><br> - ✨ Creating bugs since 2016 <br> -  📚 I'm currently learning cybersecurity through tryhackme <br>- ⚡ In my free time I like to do artsy things and watch volleyball </p> - 🌱 Passionate about Open Source and Open Science </p>
+<p align="left">I'm Anna, a physicist and a passionate wannabe developer from Italy <br><br> <br> - ✨ Jack of all trades, Master in Physics <br> - 🐞 Creating bugs since 2016 <br> -  📚 I'm currently learning cybersecurity through tryhackme <br>- ⚡ In my free time I like to do artsy things and watch volleyball <br> - 🌱 Passionate about Open Source and Open Science </p>
 
 ###
 
