@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Anna, a physicist and a passionate wannabe developer from Italy <br><br> - ✨ Creating bugs since 2016 <br> -  📚 I'm currently learning cybersecurity through tryhackme <br>- ⚡ In my free time I like to do artsy things and watch volleyball </p>
+<p align="left">I'm Anna, a physicist and a passionate wannabe developer from Italy <br><br> - ✨ Creating bugs since 2016 <br> -  📚 I'm currently learning cybersecurity through tryhackme <br>- ⚡ In my free time I like to do artsy things and watch volleyball </p> - 🌱 Passionate about Open Source and Open Science </p>
 
 ###
 
@@ -53,23 +53,15 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" height="40" alt="nim logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo"  />
 </div>
 
 ###
@@ -85,3 +77,9 @@ Here are some ideas to get you started:
 ###
 
 <img src="https://raw.githubusercontent.com/ottyanna/ottyanna/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="center">
+  <sub>🔧 powered by <a href="https://github.com/maurodesouza/profile-readme-generator">Profile Readme Generator</a></sub>
+</p>
